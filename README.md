@@ -58,7 +58,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="left">
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jash-vora&show_icons=true&locale=en&layout=compact" alt="jash-vora" />
 </p>
 
