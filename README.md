@@ -18,7 +18,7 @@
 ### 🌐 Connect with Me:
 <p align="center">
 <a href="https://linkedin.com/in/jash-vora-14b370205" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://kaggle.com/jashv@25" target="blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://kaggle.com/jashv25" target="blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 <a href="https://medium.com/@jashvora529" target="blank"><img src="https://img.shields.io/badge/-Medium-00AB6C?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
